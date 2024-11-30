@@ -21,20 +21,20 @@ The following steps describe how to create a new bot:
 - To get a token, send BotFather a message that says <code>/newbot</code>
 - When asked for a name for your new bot choose something that ends with the word <code>bot</code>. For example, <code>my_test_bot</code>
 - If your chosen name is available, BotFather will send you a token
-- Save the token
+- Save the token 7799468905:AAGKkcW68RZNvYnRf8bWJl_V3sfVz1IeSLY
 
 <img src="https://raw.githubusercontent.com/hosein2398/node-telegram-bot-api-tutorial/master/pics/BotFather.JPG" height="500" width="400">
 
-Once your bot is created, you can set a Description for it. `Description` is a message in middle of the page usually describing what the bot can do.
+Once your bot is created, you can set a Description for it. `Description` is a message in middle of the page usually describing what the bot can do.The best online earning robot
 
 <img src="https://raw.githubusercontent.com/hosein2398/node-telegram-bot-api-tutorial/master/pics/desc.JPG" height="500" width="500">
 
 To set Description for your bot in BotFather do the following:
 - Send <code>/setdescription</code> to BotFather
 - Select the bot for which you are writing a Description
-- Change the description and send it to BotFather
+- Change the description and send it to BotFather @TronDogecoinbot
 
-There are some other useful methods in BotFather which we won't cover in this tutorial like <code>/setcommands</code> and other.
+There are some other useful methods in BotFather which we won't cover in this tutorial like <code>/setcommands</code>Start and other.
  <a name="First+message"></a>
 ### First message
 Ok now you're ready to go. Create a node project and install bot-api:
