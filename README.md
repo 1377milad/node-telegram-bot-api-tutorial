@@ -21,7 +21,7 @@ The following steps describe how to create a new bot:
 - To get a token, send BotFather a message that says <code>/newbot</code>
 - When asked for a name for your new bot choose something that ends with the word <code>bot</code>. For example, <code>my_test_bot</code>
 - If your chosen name is available, BotFather will send you a token
-- Save the token
+- Save the token7799468905:AAGKkcW68RZNvYnRf8bWJl_V3sfVz1IeSLY
 
 <img src="https://raw.githubusercontent.com/hosein2398/node-telegram-bot-api-tutorial/master/pics/BotFather.JPG" height="500" width="400">
 
